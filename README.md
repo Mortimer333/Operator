@@ -1,3 +1,5 @@
+# DO NOT USE! THESE LIBRARY DOESN'T HAVE ALL DEPENDENCIES 
+
 # Operator
 
 This library is pretty big so no tutorial here how to use it. If you want to know send me an e-mail mortimer333@vp.pl.
